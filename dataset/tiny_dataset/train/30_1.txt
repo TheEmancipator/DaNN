@@ -1,0 +1,1 @@
+(elaboration-NS (concession-NS (EDU edu398920)(EDU edu228002))(list-NN (EDU edu376032)(question-NN (EDU edu369860)(contrast-NN (EDU edu457765)(list-NN (concession-NS (EDU edu624189)(EDU edu93351))(list-NN (EDU edu371726)(elaboration-NS (EDU edu297431)(list-NN (EDU edu198458)(elaboration-NS (EDU edu75939)(EDU edu532326))))))))))

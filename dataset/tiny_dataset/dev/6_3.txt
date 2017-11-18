@@ -1,0 +1,1 @@
+(topic-NN (EDU edu253275)(elaboration-NS (EDU edu637640)(elaboration-NS (elaboration-NS (EDU edu408745)(EDU edu321727))(elaboration-NS (EDU edu303045)(elaboration-NS (EDU edu467082)(elaboration-NS (EDU edu144040)(EDU edu658338)))))))

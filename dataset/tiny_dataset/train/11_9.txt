@@ -1,0 +1,1 @@
+(elaboration-NS (list-NN (EDU edu362627)(elaboration-NS (elaboration-NS (EDU edu210377)(EDU edu263447))(EDU edu196732)))(elaboration-NS (EDU edu509578)(EDU edu1871)))

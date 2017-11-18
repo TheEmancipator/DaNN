@@ -1,0 +1,1 @@
+(textualorganization-NN (EDU edu464878)(elaboration-NS (EDU edu304984)(list-NN (list-NN (EDU edu576679)(EDU edu516250))(elaboration-NS (EDU edu224700)(elaboration-NS (elaboration-NS (EDU edu336041)(EDU edu637392))(question-NN (EDU edu593228)(circumstance-NS (EDU edu110455)(elaboration-NS (EDU edu82940)(EDU edu44307)))))))))
